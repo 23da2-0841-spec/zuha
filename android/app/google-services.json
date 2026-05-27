@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "658614560737",
+    "project_id": "zuha-43503",
+    "storage_bucket": "zuha-43503.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658614560737:android:a3b873a6097c4afa28d4a0",
+        "android_client_info": {
+          "package_name": "com.example.zuha"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlfcx-7SL8Br-gkysdqP1_QP9wazigbeQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
